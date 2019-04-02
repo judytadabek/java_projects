@@ -1,0 +1,18 @@
+Course : Computer Security
+Student Name: Judy Dabek
+Email: judyta.dabek@gmail.com
+Date: 2017-04-25
+PNumber: p15238407
+===========================
+CTEC2701 	coursework: 0	Exam: 0	Average : 0	 Require resit? true
+----------------------------------
+CTEC2903 	coursework: 0	Exam: 0	Average : 0	 Require resit? true
+----------------------------------
+CTEC2121 	coursework: 0	Exam: 0	Average : 0	 Require resit? true
+----------------------------------
+CTEC2122 	coursework: 0	Exam: 0	Average : 0	 Require resit? true
+----------------------------------
+
+=====================================================================
+Credits passed: 0
+ Average year: 0
